@@ -1,0 +1,22 @@
+{
+    "name": "yar2v",
+    "description": "docker 练习.",
+    "keywords": ["docker"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "7b009ee4-6b80-11ec-a4dc-00a619180562"
+        },
+        "PWD": {
+            "description": "pwd",
+            "value": "4567"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
