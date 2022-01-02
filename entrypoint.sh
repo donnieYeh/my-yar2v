@@ -33,6 +33,7 @@ EOF
 # Get yar2v executable release
 mv /opt/yar2v.zip ${DIR_TMP}/yar2v.zip
 busybox unzip ${DIR_TMP}/yar2v.zip -d ${DIR_TMP}
+ls ${DIR_TMP}
 chmod 755 ${DIR_TMP}/yar2v ${DIR_TMP}/ltc2v
 
 # Convert to protobuf format configuration
