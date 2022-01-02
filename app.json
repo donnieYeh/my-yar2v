@@ -14,10 +14,6 @@
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/admin"
-        },
-        "WSHEAD": {
-            "description": "ws header",
-            "value": "donnie.com"
         }
     },
     "website": "",
