@@ -8,12 +8,16 @@
             "value": "7b009ee4-6b80-11ec-a4dc-00a619180562"
         },
         "FID": {
-            "description": "pwd",
-            "value": "4567"
+            "description": "fid",
+            "value": "0"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/admin"
+        },
+        "WSHEAD": {
+            "description": "ws header",
+            "value": "donnie.com"
         }
     },
     "website": "",
